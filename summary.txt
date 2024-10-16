@@ -1,0 +1,12 @@
+Hi Team,
+
+My name is Pavel Simonovsky and I’m thrilled to be back and reconnect with everyone at TD Securities. For those I’ve worked with before, I look forward to catching up, and for those I haven’t met yet, I’m eager to collaborate and share my experience.
+
+I’ve had the privilege of working as a software engineer for over 20 years, gaining experience across industries like  banking, finance and telecommunications. Throughout my career, I’ve had the opportunity to collaborate with some amazing companies, including TD Bank, TD Securities, IBM, Motorola, BlackBerry, TELUS and others. My experience spans both frontend and backend development, integrating various modern frameworks and platforms, including microservices architecture, cloud technologies, and security solutions.
+
+Overall, I love finding ways to solve complex problems, improve processes, and deliver technology solutions that make a real impact on the business.
+
+Looking forward to reconnecting and working together again!
+
+Best regards,
+Pavel
